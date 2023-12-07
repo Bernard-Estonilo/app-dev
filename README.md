@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-## movies/series
+# movies/series
 1. 20th Century Girl
 2. Sweet Home
 3. Youth of May
